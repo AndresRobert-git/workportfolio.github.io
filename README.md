@@ -1,23 +1,42 @@
 # Robert L. Andres — Portfolio
 
-A responsive personal portfolio built with HTML, CSS, and JavaScript.
+This repository contains my personal portfolio website, created to showcase my background as an Information Technology graduate, my technical skills, professional experience, and selected software and automation projects.
 
-## Before publishing
+The portfolio highlights my experience with web development, JavaScript, Google Apps Script, Google Sheets, C#, Java, .NET MAUI, and practical automation solutions. It also presents my professional experience at Gigahertz Computer Systems, where I worked with product and branch operations and developed tools to improve data handling and repetitive workflows.
 
-Replace these placeholders in `index.html`:
+## About the Portfolio
 
-- `your.email@example.com`
-- `https://www.linkedin.com/`
-- `https://github.com/`
+The website is designed as a simple, responsive, and professional introduction to my work. It includes:
 
-Also review project descriptions and add screenshots/live-demo links where appropriate.
+- A professional introduction and career focus
+- About Me section
+- Technical skills and technologies
+- Selected software and automation projects
+- Professional experience
+- Educational background
+- Contact and professional links
 
-## Files
+## Technologies Used
 
-- `index.html` — page structure and content
-- `style.css` — styling and responsive layout
-- `script.js` — navigation and scroll animations
+- HTML5
+- CSS3
+- JavaScript
+- Google Apps Script
+- Google Sheets
+- C#
+- .NET MAUI
+- Java
 
-## Publishing
+## Project Structure
 
-This site can be hosted for free using GitHub Pages.
+- `index.html` — Main portfolio page and content
+- `style.css` — Layout, styling, responsive design, and visual presentation
+- `script.js` — Navigation behavior, scroll animations, and dynamic year display
+
+## Purpose
+
+This portfolio serves as a central place for recruiters, employers, and other professionals to learn more about my technical background and the projects I have built. It is intended to complement my LinkedIn profile and job applications by providing a practical view of my skills and experience.
+
+## Deployment
+
+The website can be deployed using GitHub Pages and accessed through a public GitHub Pages URL.
