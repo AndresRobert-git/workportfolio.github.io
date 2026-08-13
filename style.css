@@ -127,7 +127,7 @@ h3 { font-size: 1.25rem; line-height: 1.25; }
 .project-content > p:not(.project-type) { color: var(--muted); }
 .tags { display: flex; flex-wrap: wrap; gap: 7px; margin: 20px 0; }
 .tags span { padding: 5px 9px; border: 1px solid var(--line); border-radius: 999px; color: #c4ccd9; font-size: .7rem; }
-.tags span:hover  { border-color:#fafafa }
+.tags:hover  { border-color:#fafafa }
 .project-note { border-left: 2px solid var(--accent); padding-left: 15px; margin: 25px 0; display: grid; gap: 3px; }
 .project-note strong { font-size: .8rem; }
 .project-note span { color: var(--muted); font-size: .82rem; }
